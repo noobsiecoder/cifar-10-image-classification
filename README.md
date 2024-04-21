@@ -19,7 +19,7 @@ To run the code in this repository, you'll need:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/cifar-10.git
+git clone https://github.com/noobsiecoder/cifar-10-image-classification.git
 cd cifar-10
 
 # 2. Install the required dependencies
